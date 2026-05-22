@@ -35,7 +35,9 @@ https://app.lobehub.com/settings/provider/deepseek
 6. In **Model List**, confirm that **DeepSeek V4 Pro** and **DeepSeek V4 Flash** are enabled. If needed, click **Fetch models** to refresh the provider model list.
 
 <div align="center">
-<img src="./assets/lobehub_provider_settings.jpg" width="1024" border="1" />
+<img src="./assets/lobehub_chrome_provider_settings.en-US.jpg" width="1024" border="1" />
+<br />
+<sub>DeepSeek provider settings in the LobeHub web app opened with Chrome.</sub>
 </div>
 
 #### 3. Select a DeepSeek V4 Model
@@ -48,7 +50,9 @@ Return to **Home** or open any agent chat.
 4. Send a message to start the conversation.
 
 <div align="center">
-<img src="./assets/lobehub_model_selector.jpg" width="1024" border="1" />
+<img src="./assets/lobehub_desktop_model_selector.en-US.jpg" width="720" border="1" />
+<br />
+<sub>DeepSeek V4 models in the LobeHub desktop app model selector.</sub>
 </div>
 
 DeepSeek V4 models expose a **1M context window** in LobeHub. The built-in model cards already carry the right context metadata, so no separate context-window setting is required.

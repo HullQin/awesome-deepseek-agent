@@ -35,7 +35,9 @@ https://app.lobehub.com/settings/provider/deepseek
 6. 在 **模型列表** 中确认 **DeepSeek V4 Pro** 与 **DeepSeek V4 Flash** 已启用。如需刷新模型列表，点击 **获取模型列表**。
 
 <div align="center">
-<img src="./assets/lobehub_provider_settings.jpg" width="1024" border="1" />
+<img src="./assets/lobehub_chrome_provider_settings.zh-CN.jpg" width="1024" border="1" />
+<br />
+<sub>在 Chrome 中打开 LobeHub 网页端的 DeepSeek 模型服务配置页。</sub>
 </div>
 
 #### 3. 选择 DeepSeek V4 模型
@@ -48,7 +50,9 @@ https://app.lobehub.com/settings/provider/deepseek
 4. 发送消息即可开始对话。
 
 <div align="center">
-<img src="./assets/lobehub_model_selector.jpg" width="1024" border="1" />
+<img src="./assets/lobehub_desktop_model_selector.zh-CN.jpg" width="720" border="1" />
+<br />
+<sub>LobeHub 桌面端模型选择器中的 DeepSeek V4 模型。</sub>
 </div>
 
 DeepSeek V4 模型在 LobeHub 中会显示 **100 万 token 上下文窗口**。内置模型卡片已经包含正确的上下文元数据，无需额外配置上下文长度。
