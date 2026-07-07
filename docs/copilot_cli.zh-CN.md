@@ -2,6 +2,9 @@
 
 # 接入 GitHub Copilot CLI
 
+> [!WARNING]
+> 提示：本工具完全由第三方提供，仅供开发者参考，我们无法保证其有效性和安全性，不对其承担责任。
+
 通过 BYOK（自带密钥）模式配置 GitHub Copilot CLI 使用 DeepSeek V4 模型，基于 Anthropic 兼容端点接入。
 
 > **重要提示：** 请使用 `anthropic` 作为 provider type。使用 `openai` 类型会触发 `400` 错误：`The reasoning_content in the thinking mode must be passed back to the API.` — DeepSeek 要求将模型输出的 `reasoning_content` 在下一次请求中原样回传，Copilot CLI 的 OpenAI 集成不支持此机制。改用 Anthropic Messages API 端点可以完全避免此问题。

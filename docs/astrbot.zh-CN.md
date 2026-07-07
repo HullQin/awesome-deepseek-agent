@@ -2,6 +2,9 @@
 
 # 接入 AstrBot
 
+> [!WARNING]
+> 提示：本工具完全由第三方提供，仅供开发者参考，我们无法保证其有效性和安全性，不对其承担责任。
+
 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 是一个开源的一站式 Agent 助手。它支持接入 QQ、微信、飞书、Telegram 等主流消息平台，也可以通过技能、插件和 MCP 扩展能力。
 
 #### 1. 安装 AstrBot

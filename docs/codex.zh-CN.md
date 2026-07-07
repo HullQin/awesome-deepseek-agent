@@ -2,6 +2,9 @@
 
 # 接入 Codex
 
+> [!WARNING]
+> 提示：本工具完全由第三方提供，仅供开发者参考，我们无法保证其有效性和安全性，不对其承担责任。
+
 Codex 是 OpenAI 的编程 Agent，支持 CLI 和 App 使用。Codex 使用 OpenAI Responses API 与模型通信，因此需要一个转发层处理请求，这里使用 [Moon Bridge](https://github.com/ZhiYi-R/moon-bridge) 作为转发层。
 
 #### 1. 安装依赖

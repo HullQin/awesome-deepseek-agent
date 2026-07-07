@@ -2,6 +2,9 @@
 
 # Integrate with Cherry Studio
 
+> [!WARNING]
+> Note: This agent is provided entirely by a third party and is listed for developers' reference only. We cannot guarantee its effectiveness or security, and we assume no responsibility for it.
+
 Cherry Studio is an open-source desktop AI client for Windows, macOS, and Linux that unifies access to multiple LLM providers. It ships with 300+ pre-configured chat assistants, agents, AI translation, knowledge bases, and MCP servers.
 
 - **GitHub:** <https://github.com/CherryHQ/cherry-studio>

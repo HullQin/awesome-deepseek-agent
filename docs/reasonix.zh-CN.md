@@ -2,6 +2,9 @@
 
 # 接入 Reasonix
 
+> [!WARNING]
+> 提示：本工具完全由第三方提供，仅供开发者参考，我们无法保证其有效性和安全性，不对其承担责任。
+
 Reasonix 是一款以 DeepSeek 为原生后端的终端编程 Agent。设计围绕 DeepSeek API 展开 —— Cache-First 循环、Flash 优先的成本控制、工具调用自动修复 —— 直接对接 `api.deepseek.com`，不需要协议转换层。
 
 #### 1. 安装 Node.js

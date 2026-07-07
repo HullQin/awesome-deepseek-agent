@@ -2,6 +2,9 @@
 
 # 接入 GitHub Copilot
 
+> [!WARNING]
+> 提示：本工具完全由第三方提供，仅供开发者参考，我们无法保证其有效性和安全性，不对其承担责任。
+
 **DeepSeek V4 for Copilot Chat** 是一个 VS Code 插件，将 DeepSeek V4 Pro 和 Flash 直接添加到 GitHub Copilot 的模型选择器中。你仍可使用 Copilot 的 Agent 模式、工具调用、Skills 和 MCP — 全部由 DeepSeek 驱动。
 
 #### 1. 安装插件

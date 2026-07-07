@@ -2,6 +2,9 @@ English | [简体中文](./kilo_code.zh-CN.md) · [← 返回](../README.zh-CN.m
 
 # 接入 Kilo Code
 
+> [!WARNING]
+> 提示：本工具完全由第三方提供，仅供开发者参考，我们无法保证其有效性和安全性，不对其承担责任。
+
 Kilo Code 是一个 AI 编程助手，支持 CLI 和编辑器扩展。
 
 #### 1. 安装 Kilo Code CLI

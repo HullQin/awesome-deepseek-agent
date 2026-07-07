@@ -2,6 +2,9 @@
 
 # Integrate with Claude Code
 
+> [!WARNING]
+> Note: This agent is provided entirely by a third party and is listed for developers' reference only. We cannot guarantee its effectiveness or security, and we assume no responsibility for it.
+
 Claude Code is an AI coding assistant that runs in the terminal (or VSCode Extension).
 
 ### Installing Claude Code from Scratch

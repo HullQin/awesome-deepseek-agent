@@ -2,6 +2,9 @@
 
 # 接入 LobeHub
 
+> [!WARNING]
+> 提示：本工具完全由第三方提供，仅供开发者参考，我们无法保证其有效性和安全性，不对其承担责任。
+
 LobeHub 是你的 Chief Agent Operator。它将你的 Agent 组织成 7×24 小时运作。它会为你的整个 AI 团队进行招聘、排班并生成报告。你始终掌控全局——无需一直在线。
 
 - **GitHub：** <https://github.com/lobehub/lobehub>

@@ -2,6 +2,9 @@
 
 # Integrate with OpenClaw
 
+> [!WARNING]
+> Note: This agent is provided entirely by a third party and is listed for developers' reference only. We cannot guarantee its effectiveness or security, and we assume no responsibility for it.
+
 OpenClaw is an open-source personal AI assistant that can connect to popular chat tools like Feishu and WeChat, and can be extended through Skills.
 
 #### 1. Install OpenClaw

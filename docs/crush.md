@@ -2,6 +2,9 @@
 
 # Integrate with Crush
 
+> [!WARNING]
+> Note: This agent is provided entirely by a third party and is listed for developers' reference only. We cannot guarantee its effectiveness or security, and we assume no responsibility for it.
+
 Crush is a glamorous open-source AI coding agent that runs in your terminal, built by Charm. It supports multi-model switching, LSP integration, MCP servers, and agentic coding workflows.
 
 #### 1. Install Crush

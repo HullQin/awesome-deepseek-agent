@@ -1,5 +1,8 @@
 # 在 Factory AI Droid 中配置 DeepSeek
 
+> [!WARNING]
+> 提示：本工具完全由第三方提供，仅供开发者参考，我们无法保证其有效性和安全性，不对其承担责任。
+
 本指南介绍如何将 DeepSeek 模型添加到 Factory AI Droid 的 `settings.json` 中。
 
 ## 可用模型

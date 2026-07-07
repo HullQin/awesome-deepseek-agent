@@ -2,6 +2,9 @@
 
 # 接入 DeepSeek-TUI
 
+> [!WARNING]
+> 提示：本工具完全由第三方提供，仅供开发者参考，我们无法保证其有效性和安全性，不对其承担责任。
+
 DeepSeek-TUI 是一款采用 Rust 编写的开源终端 AI 编程助手，使用 Codex 风格的 13-crate 工作区架构。原生对接 `api.deepseek.com`，支持 DeepSeek-V4-Pro 与 DeepSeek-V4-Flash 全 100 万 token 上下文，并在 macOS（Seatbelt）、Linux（Landlock）和 Windows 上提供沙箱化的工具执行能力。
 
 - **GitHub：** <https://github.com/Hmbown/DeepSeek-TUI>

@@ -2,6 +2,9 @@
 
 # Integrate with Deep Code
 
+> [!WARNING]
+> Note: This agent is provided entirely by a third party and is listed for developers' reference only. We cannot guarantee its effectiveness or security, and we assume no responsibility for it.
+
 Deep Code is an open-source terminal AI coding assistant for the DeepSeek-V4 model, supporting deep thinking, reasoning effort control, and Agent Skills.
 
 - **GitHub:** <https://github.com/lessweb/deepcode-cli>

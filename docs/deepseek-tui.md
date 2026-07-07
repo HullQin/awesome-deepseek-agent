@@ -2,6 +2,9 @@
 
 # Integrate with DeepSeek-TUI
 
+> [!WARNING]
+> Note: This agent is provided entirely by a third party and is listed for developers' reference only. We cannot guarantee its effectiveness or security, and we assume no responsibility for it.
+
 DeepSeek-TUI is an open-source terminal AI coding assistant built in Rust as a Codex-style 13-crate workspace. It talks to `api.deepseek.com` directly, supports DeepSeek-V4-Pro and DeepSeek-V4-Flash with the full 1M-token context window, and ships sandboxed tool execution on macOS (Seatbelt), Linux (Landlock), and Windows.
 
 - **GitHub:** <https://github.com/Hmbown/DeepSeek-TUI>

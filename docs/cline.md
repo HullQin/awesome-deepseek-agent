@@ -2,6 +2,9 @@
 
 # Integrate with Cline
 
+> [!WARNING]
+> Note: This agent is provided entirely by a third party and is listed for developers' reference only. We cannot guarantee its effectiveness or security, and we assume no responsibility for it.
+
 Cline is an AI coding assistant that runs as a VS Code extension, supporting multiple API providers and models.
 
 #### 1. Install Cline Extension

@@ -2,6 +2,9 @@
 
 # Integrate with Codex
 
+> [!WARNING]
+> Note: This agent is provided entirely by a third party and is listed for developers' reference only. We cannot guarantee its effectiveness or security, and we assume no responsibility for it.
+
 Codex is OpenAI's coding agent, available as a CLI and app. Codex communicates with models through the OpenAI Responses API, so it needs a forwarding layer to handle requests. This guide uses [Moon Bridge](https://github.com/ZhiYi-R/moon-bridge) as that forwarding layer.
 
 #### 1. Install Requirements

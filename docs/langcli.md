@@ -2,6 +2,9 @@
 
 # Integrate with Langcli
 
+> [!WARNING]
+> Note: This agent is provided entirely by a third party and is listed for developers' reference only. We cannot guarantee its effectiveness or security, and we assume no responsibility for it.
+
 [Langcli](https://langcli.com) is an AI coding assistant that supports CLI and Zed ACP Agent.
 
 #### 1. Installation

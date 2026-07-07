@@ -1,5 +1,8 @@
 # Configure DeepSeek in Factory AI Droid
 
+> [!WARNING]
+> Note: This agent is provided entirely by a third party and is listed for developers' reference only. We cannot guarantee its effectiveness or security, and we assume no responsibility for it.
+
 This guide explains how to add DeepSeek models to Factory AI Droid's `settings.json`.
 
 ## Available Models

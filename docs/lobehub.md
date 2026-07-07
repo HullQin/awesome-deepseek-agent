@@ -2,6 +2,9 @@
 
 # Integrate with LobeHub
 
+> [!WARNING]
+> Note: This agent is provided entirely by a third party and is listed for developers' reference only. We cannot guarantee its effectiveness or security, and we assume no responsibility for it.
+
 LobeHub is your Chief Agent Operator. It organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
 
 - **GitHub:** <https://github.com/lobehub/lobehub>

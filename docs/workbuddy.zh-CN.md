@@ -2,6 +2,9 @@
 
 # 接入 WorkBuddy/CodeBuddy
 
+> [!WARNING]
+> 提示：本工具完全由第三方提供，仅供开发者参考，我们无法保证其有效性和安全性，不对其承担责任。
+
 WorkBuddy/CodeBuddy 是 AI Agent 与编程助手工具。它支持通过本地模型配置文件添加自定义模型，可以使用 OpenAI 兼容的 Chat Completions API 接入 DeepSeek V4。
 
 #### 1. 安装 WorkBuddy/CodeBuddy

@@ -2,6 +2,9 @@
 
 # Integrate with Reasonix
 
+> [!WARNING]
+> Note: This agent is provided entirely by a third party and is listed for developers' reference only. We cannot guarantee its effectiveness or security, and we assume no responsibility for it.
+
 Reasonix is a DeepSeek-native coding agent that runs in the terminal. It's designed around DeepSeek's API directly — cache-first loop, flash-first cost control, automatic tool-call repair — and talks to `api.deepseek.com` without a translation shim.
 
 #### 1. Install Node.js

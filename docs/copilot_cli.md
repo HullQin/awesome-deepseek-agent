@@ -2,6 +2,9 @@
 
 # Integrate with GitHub Copilot CLI
 
+> [!WARNING]
+> Note: This agent is provided entirely by a third party and is listed for developers' reference only. We cannot guarantee its effectiveness or security, and we assume no responsibility for it.
+
 Configure GitHub Copilot CLI to use DeepSeek V4 models via BYOK (Bring Your Own Key) with the Anthropic-compatible endpoint.
 
 > **Important:** Use `anthropic` as the provider type. The `openai` type triggers a `400` error: `The reasoning_content in the thinking mode must be passed back to the API.` — DeepSeek requires `reasoning_content` to be echoed back on subsequent requests, which Copilot CLI's OpenAI integration does not support. The Anthropic Messages API endpoint avoids this issue entirely.

@@ -2,6 +2,9 @@
 
 # Integrate with AstrBot
 
+> [!WARNING]
+> Note: This agent is provided entirely by a third party and is listed for developers' reference only. We cannot guarantee its effectiveness or security, and we assume no responsibility for it.
+
 [AstrBot](https://github.com/AstrBotDevs/AstrBot) is an open-source all-in-one agent assistant that integrates with mainstream messaging platforms such as QQ, WeChat, Feishu, and Telegram, and can be extended with skills, plugins, and MCPs to enhance its functionality.
 
 #### 1. Install AstrBot

@@ -2,6 +2,9 @@
 
 # 集成 Deep Code
 
+> [!WARNING]
+> 提示：本工具完全由第三方提供，仅供开发者参考，我们无法保证其有效性和安全性，不对其承担责任。
+
 Deep Code 是一款开源的终端 AI 编程助手，专为 DeepSeek-V4 系列模型适配，支持深度思考、推理强度控制以及 Agent Skills。
 
 - **GitHub：** <https://github.com/lessweb/deepcode-cli>

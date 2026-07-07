@@ -2,6 +2,9 @@
 
 # Integrate with Kilo Code
 
+> [!WARNING]
+> Note: This agent is provided entirely by a third party and is listed for developers' reference only. We cannot guarantee its effectiveness or security, and we assume no responsibility for it.
+
 Kilo Code is an AI coding assistant available as a CLI and editor extension.
 
 #### 1. Install Kilo Code CLI

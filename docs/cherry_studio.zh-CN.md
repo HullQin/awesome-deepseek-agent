@@ -2,6 +2,9 @@
 
 # 接入 Cherry Studio
 
+> [!WARNING]
+> 提示：本工具完全由第三方提供，仅供开发者参考，我们无法保证其有效性和安全性，不对其承担责任。
+
 Cherry Studio 是一款面向 Windows / macOS / Linux 的开源桌面 AI 客户端，可在同一应用内统一接入主流 LLM Provider。内置 300+ 预设对话助手、Agent、AI 翻译、知识库、MCP 服务。
 
 - **GitHub：** <https://github.com/CherryHQ/cherry-studio>

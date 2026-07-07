@@ -2,6 +2,9 @@
 
 # Integrate with OpenCode
 
+> [!WARNING]
+> Note: This agent is provided entirely by a third party and is listed for developers' reference only. We cannot guarantee its effectiveness or security, and we assume no responsibility for it.
+
 OpenCode is an open-source AI coding assistant available in terminal, web, and other forms.
 
 #### 1. Install OpenCode

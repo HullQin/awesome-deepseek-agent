@@ -2,6 +2,9 @@
 
 # 在 Oh My Pi 中使用 DeepSeek
 
+> [!WARNING]
+> 提示：本工具完全由第三方提供，仅供开发者参考，我们无法保证其有效性和安全性，不对其承担责任。
+
 [Oh My Pi](https://github.com/can1357/oh-my-pi) 是终端 AI 编程 Agent。自 v14.5 起内置了 DeepSeek V4 模型条目，但内置条目缺少关键配置，直接使用可能报错，仍需自定义 `models.yml`。
 
 ## 前置条件

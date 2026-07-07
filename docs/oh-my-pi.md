@@ -2,6 +2,9 @@
 
 # Using DeepSeek with Oh My Pi
 
+> [!WARNING]
+> Note: This agent is provided entirely by a third party and is listed for developers' reference only. We cannot guarantee its effectiveness or security, and we assume no responsibility for it.
+
 [Oh My Pi](https://github.com/can1357/oh-my-pi) is a terminal AI coding agent. As of v14.5 it ships DeepSeek V4 model entries, but the built-in compat is incomplete — a custom `models.yml` is still required for reliable use.
 
 ## Prerequisites
